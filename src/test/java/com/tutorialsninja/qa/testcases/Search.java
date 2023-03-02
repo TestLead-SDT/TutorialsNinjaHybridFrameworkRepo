@@ -9,6 +9,7 @@ import com.tutorialsninja.qa.BaseClass.BaseClass;
 import com.tutorialsninja.qa.pageObjectRepo.HomePage;
 import com.tutorialsninja.qa.pageObjectRepo.SearchPage;
 
+//Update commit
 public class Search extends BaseClass
 {
 	HomePage homePage;
